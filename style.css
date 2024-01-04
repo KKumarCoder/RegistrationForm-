@@ -5,6 +5,7 @@
  }
  body{
      background-image: url(./image/background.jpg);
+      background-color:green;
      background-size: cover;
      background-position: 0px -50px;
      display: flex;
